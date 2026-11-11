@@ -6,7 +6,7 @@ subtitle: 부경대학교 컴퓨터 인공지능공학부
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_circular: true
 
 selected_papers: false
