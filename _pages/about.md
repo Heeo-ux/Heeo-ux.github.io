@@ -6,7 +6,7 @@ subtitle: <a href='#'>학교,학과</a>. 부경대학교 컴퓨터 인공지능�
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
