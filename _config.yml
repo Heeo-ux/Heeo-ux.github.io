@@ -136,8 +136,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: HEEHO BLOG # blog_name will be displayed in your blog page
+blog_description: 공부하고 만든 것들을 기록하는곳
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
