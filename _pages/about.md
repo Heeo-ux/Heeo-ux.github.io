@@ -6,8 +6,8 @@ subtitle: 부경대학교 컴퓨터 인공지능공학부
 
 profile:
   align: right
-  image:
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.png
+  image_circular: true
 
 selected_papers: false
 social: false
@@ -20,3 +20,11 @@ latest_posts:
 ---
 
 안녕하세요! 국립부경대학교 컴퓨터 인공지능공학부 이희호 입니다
+
+### 관심분야
+- 게임개발
+- 기획
+
+### 연락처
+- Email: [h69699953@gmail.com](mailto:h6969953@gmail.com)
+- GitHub [Heeo-ux](https://github.com/Heeo-ux)
